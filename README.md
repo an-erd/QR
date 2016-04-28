@@ -1,2 +1,0 @@
-# QR
-Quadruped Robot
